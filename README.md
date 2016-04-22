@@ -19,6 +19,6 @@ Se usa markdown (asi que podrémos agregar imagenes)
 [Mayor Documentación] 
 
 
-
+[Features que esperamos]
 
 
