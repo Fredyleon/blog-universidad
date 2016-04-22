@@ -17,8 +17,14 @@ Se usa markdown (asi que podrémos agregar imagenes)
 
 
 [Mayor Documentación] 
-
+Centro en donde ponemos todo lo que necesitamos para leer, para avanzar para lo que necesitemos
 
 [Features que esperamos]
+
+[Roadmap]
+
+[Licencia]
+
+
 
 
