@@ -1,2 +1,24 @@
-# blog-universidad
-Es un proyecto dedicado al crecimiento de comunidad universitaria a traves de un blog de eventos (curso de git y github de platzi)
+Blog Universidad
+
+Se usa markdown (asi que podrémos agregar imagenes)
+
+[Descripcion del proyecto]
+
+[instalacion]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+
+- Features que debemos instalar,
+- caracteristicas del proyecto
+- plugins
+
+
+[Mayor Documentación] 
+
+
+
+
+
